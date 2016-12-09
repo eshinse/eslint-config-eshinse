@@ -30,6 +30,7 @@ rules:
 
   ## Possible Errors
 
+  no-await-in-loop: error
   no-cond-assign:
     - error
     - except-parens
@@ -244,6 +245,8 @@ rules:
         parameters: 2
       CallExpression:
         arguments: 1
+      ArrayExpression: 1
+      ObjectExpression: 1
   jsx-quotes: error
   key-spacing: error
   keyword-spacing: error
