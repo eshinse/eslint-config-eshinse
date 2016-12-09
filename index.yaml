@@ -236,6 +236,7 @@ rules:
         var: 2
         let: 2
         const: 3
+      outerIIFEBody: 1
       MemberExpression: 1
       FunctionDeclaration:
         body: 1
