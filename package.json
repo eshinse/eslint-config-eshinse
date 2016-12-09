@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-eshinse",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "eshinse ESLint config.",
   "homepage": "https://github.com/eshinse/eslint-config-eshinse",
   "author": "Kenneth Sundqvist <kenneth@eshin.se> (https://eshin.se)>",
